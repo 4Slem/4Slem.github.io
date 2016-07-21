@@ -1,0 +1,17 @@
+{% if paginator.total_posts >5 %}
+<div class="pagination">
+ {% if paginator.previous_page %}
+    <div class="left"><a href="{{ paginator.previous_page_path }}"><i aria-hidden="true" class="fa fa-arrow-circle-o-left fa-3x"></i></a></div>
+{% else %}
+   <div class="left"><a href="" class="disabled"><i aria-hidden="true" class="fa fa-arrow-circle-o-left fa-3x"></i></a></div>
+{% endif %}
+
+{% if paginator.next_page %}
+    <div class="right"><a href="{{ paginator.next_page_path }}"><i aria-hidden="true" class="fa fa-arrow-circle-o-right fa-3x"></i></a></div>
+{% else %}
+   <div class="right"><a href="" class="disabled"><i aria-hidden="true" class="fa fa-arrow-circle-o-right fa-3x"></i></a></div>
+{% endif %}
+    <div class="clear"></div>
+</div>
+
+{%endif%}

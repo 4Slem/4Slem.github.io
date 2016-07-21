@@ -1,0 +1,21 @@
+---
+layout: default
+permalink: /portfolio
+excerpt: Blog. Roman Vakulin. Portfolio
+---
+<div class="portfolio">
+	{% for portfolio in site.data.portfolio %}
+        <section>
+          	<div class="description">
+          		<a href="{{portfolio.git}}" target="_blank">
+	            	<h2>{{portfolio.title}}</h2>
+	            </a>
+	            {% if portfolio.dev == true %}<p class="des"><i>Сайт знаходиться в стадії розробки</i></p>{% endif %}
+	            <p>{{portfolio.content}}</p>
+				<a href="{{portfolio.git}}" class="button" target="_blank">Перегляд  <i aria-hidden="true" class="fa fa-long-arrow-right"></i></a>
+	        </div>
+         	<div class="image"><a href="{{portfolio.git}}" target="_blank"><img src="{{portfolio.img}}" alt=""></a></div>
+          	<div class="clear"></div>
+        </section>
+    {% endfor %}
+</div>

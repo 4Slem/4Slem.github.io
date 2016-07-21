@@ -1,0 +1,11 @@
+- title: Bussiness information technologies
+  img: images/portfolio/lnu.png
+  content: 
+  dev: true
+  git: https://4slem.github.io/LNU/
+
+- title: Інтернет магазин електроніки
+  img: images/portfolio/shop.png
+  content:
+  dev: true
+  git: https://4slem.github.io/Shop/
