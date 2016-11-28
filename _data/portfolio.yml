@@ -11,7 +11,7 @@
   git: https://4slem.github.io/Shop/
 
 - title: MusicStore
-  img: images/portfolio/shop.png
-  content:
+  img: images/portfolio/musicStore.png
+  content: "AngularJs, Twitter bootstrap"
   dev: true
-  git: https://4slem.github.io/MusicStore
+  git: https://4slem.github.io/musicStore
