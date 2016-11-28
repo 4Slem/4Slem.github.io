@@ -9,3 +9,9 @@
   content:
   dev: true
   git: https://4slem.github.io/Shop/
+
+- title: MusicStore
+  img: images/portfolio/shop.png
+  content:
+  dev: true
+  git: https://4slem.github.io/MusicStore
