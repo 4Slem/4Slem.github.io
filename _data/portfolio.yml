@@ -1,23 +1,23 @@
 - title: Brandi Template
-  img: images/portfolio/brandi.png
+  img: images/portfolio/brandi.jpg
   content: 
   dev: false
   git: https://4slem.github.io/Brandi-template/
 
 - title: Bussiness information technologies
-  img: images/portfolio/lnu.png
+  img: images/portfolio/lnu.jpg
   content: 
   dev: true
   git: https://4slem.github.io/LNU/
 
 - title: Інтернет магазин електроніки
-  img: images/portfolio/shop.png
+  img: images/portfolio/shop.jpg
   content:
   dev: true
   git: https://4slem.github.io/Shop/
 
 - title: MusicStore
-  img: images/portfolio/musicstore.png
+  img: images/portfolio/musicstore.jpg
   content: "AngularJs, Twitter bootstrap"
   dev: true
   git: https://4slem.github.io/musicStore
