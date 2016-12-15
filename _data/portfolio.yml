@@ -1,3 +1,9 @@
+- title: Black Friday
+  img: images/portfolio/black_friday.png
+  content: Bootstrap grid, Sass
+  dev: false
+  git: https://4slem.github.io/BlackFriday/
+
 - title: Brandi Template
   img: images/portfolio/brandi.jpg
   content: 
