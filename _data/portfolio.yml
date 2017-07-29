@@ -1,22 +1,22 @@
-  - title: Фабрика Моды
+- title: Фабрика Моды
   img: images/portfolio/fm.png
   content: Интернет магазин
   dev: false
   git: http://37.97.129.114/
 
-  - title: Bebivita
+- title: Bebivita
   img: images/portfolio/bebivita.png
   content: fullpage.js, Animate.css
   dev: false
   git: http://pure.bebivita.ua
 
-  - title: Silver House
+- title: Silver House
   img: images/portfolio/sh.png
   content: Animate.css
   dev: false
   git: http://sh.artdepo.com.ua/
 
-  - title: Solar kit
+- title: Solar kit
   img: images/portfolio/sk.png
   content: 
   dev: false
